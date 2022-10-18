@@ -21,5 +21,3 @@
 ![image](https://github.com/WEIYANLIN1996/pyqt5-QQ/blob/master/introduction-img/图片30.jpg)
 >>聊天界面(可个人聊天、群聊)<br>
 ![image](https://github.com/WEIYANLIN1996/pyqt5-QQ/blob/master/introduction-img/图片22.jpg)
-*源码详解介绍<br>
->>最近没什么时间，有空更新，不懂可加qq：2097557613
